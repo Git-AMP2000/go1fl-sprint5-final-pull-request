@@ -1,0 +1,14 @@
+# Локальные сборки и артефакты проверки
+/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+coverage.out
+coverage.html
+
+# Локальные настройки редакторов
+.idea/
+.vscode/
